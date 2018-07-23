@@ -2,6 +2,6 @@ language: java
 jdk:
  - oraclejdk8
 install: true
-script: ./mvnw clean install
-after_success:
-  - bash <(curl -s https://codecov.io/bash)
+script: 
+ - javac wiper.java
+ - java wiper
