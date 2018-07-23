@@ -3,7 +3,7 @@ public class windshieldWiper {
 	private lever l;
 	private dial d;
 	private wiper w;
-	public static void main(String[] args){
+	
 	public windshieldWiper(int wiperSpeed, String leverPosition, int dialPosition) {
 		l = new lever(leverPosition);
 		d = new dial(dialPosition);
@@ -187,5 +187,5 @@ public class windshieldWiper {
 	}
 	}
 	}
-	}
+	
 }
