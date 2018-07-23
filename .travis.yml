@@ -4,4 +4,4 @@ jdk:
 install: true
 script: 
  - javac wiper.java
- - java wiper
+
