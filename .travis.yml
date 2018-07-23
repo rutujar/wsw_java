@@ -3,5 +3,5 @@ jdk:
  - oraclejdk8
 install: true
 script: 
- - javac wiper.java
- - java wiper
+ - javac windshieldWiper.java
+ - java windshieldWiper
