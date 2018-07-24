@@ -6,3 +6,4 @@ public DialErrorException(String error) {
 super(error);
 }
 }
+
