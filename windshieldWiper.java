@@ -1,5 +1,5 @@
 public class windshieldWiper {
-	public static void main(String[] args){
+	
 	private lever l;
 	private dial d;
 	private wiper w;
@@ -188,4 +188,4 @@ public class windshieldWiper {
 	}
 	}
 	}
-}
+
