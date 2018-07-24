@@ -6,3 +6,4 @@ public LeverErrorException(String error) {
 super(error);
 }
 }
+
