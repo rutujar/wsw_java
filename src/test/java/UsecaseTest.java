@@ -12,7 +12,7 @@ public class UsecaseTest {
 	@BeforeClass
 	public static void setUpObjects()
 	{
-		tcase = new windshieldWiper(0, "OFF", 1);
+		tcase = new WindshieldWiper(0, "OFF", 1);
 	}
 	
 	@Test
