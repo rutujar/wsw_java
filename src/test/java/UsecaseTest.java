@@ -7,7 +7,7 @@ import org.junit.Test;
 
 public class UsecaseTest {
 
-	private static windshieldWiper tcase;
+	private static WindshieldWiper tcase;
 	
 	@BeforeClass
 	public static void setUpObjects()
