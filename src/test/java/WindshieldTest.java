@@ -4,7 +4,7 @@ import org.junit.AfterClass;
 import org.junit.BeforeClass;
 import org.junit.Test;
 
-public class WindshieldtTest {
+public class WindshieldTest {
 	public static WindshieldWiper tcase;
 
 
