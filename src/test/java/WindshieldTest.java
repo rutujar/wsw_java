@@ -21,7 +21,7 @@ public class WindshieldTest {
 		assertEquals(4, tcase.getWiperSpeed());
 	}
 	catch (LeverErrorException e) {
-		fail("Error resolving lever position");
+		
 		}
 	}
 	
@@ -36,7 +36,7 @@ public class WindshieldTest {
 		assertEquals(6, tcase.getWiperSpeed());
 	}
 	catch (DialErrorException e) {
-		fail("Error resolving dial position");
+		
 		}
 	}
 	
@@ -50,7 +50,7 @@ public class WindshieldTest {
 		assertEquals(12, tcase.getWiperSpeed());
 	}
 	catch (DialErrorException e) {
-		fail("Error resolving dial position");
+		
 		}
 	}
 	
@@ -64,7 +64,7 @@ public class WindshieldTest {
 		assertEquals(30, tcase.getWiperSpeed());
 	}
 	catch (LeverErrorException e) {
-		fail("Error resolving lever position");
+		
 		}
 	}
 
@@ -78,7 +78,7 @@ public class WindshieldTest {
 		assertEquals(60, tcase.getWiperSpeed());
 	}
 	catch (LeverErrorException e) {
-		fail("Error resolving lever position");
+		
 		}
 	}
 	
@@ -92,7 +92,7 @@ public class WindshieldTest {
 		assertEquals(30, tcase.getWiperSpeed());
 	}
 	catch (LeverErrorException e) {
-		fail("Error resolving lever position ");
+		
 		}
 	}
 	
@@ -107,7 +107,7 @@ public class WindshieldTest {
 		assertEquals(3,tcase.getDialPosition());
 	}
 	catch (LeverErrorException e) {
-		fail("Error resolving lever position");
+		
 		}
 	}
 	
@@ -121,7 +121,7 @@ public class WindshieldTest {
 		assertEquals(6, tcase.getWiperSpeed());
 	}
 	catch (DialErrorException e) {
-		fail("Error resolving dial position");
+		
 		}
 	}
 	
@@ -135,7 +135,7 @@ public class WindshieldTest {
 		assertEquals(4, tcase.getWiperSpeed());
 	}
 	catch (DialErrorException e) {
-		fail("Error resolving dial position");
+		
 		}
 	}
 	
@@ -149,7 +149,7 @@ public class WindshieldTest {
 		assertEquals(0, tcase.getWiperSpeed());
 	}
 	catch (LeverErrorException e) {
-		fail("Error resolving lever position");
+		
 		}
 	}
 	
