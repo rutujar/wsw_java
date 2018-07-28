@@ -1,10 +1,10 @@
-public class windshieldWiper {
+public class WindshieldWiper {
 	
 	private lever l;
 	private dial d;
 	private wiper w;
 	
-	public windshieldWiper(int wiperSpeed, String leverPosition, int dialPosition) {
+	public WindshieldWiper(int wiperSpeed, String leverPosition, int dialPosition) {
 		l = new lever(leverPosition);
 		d = new dial(dialPosition);
 		w = new wiper(wiperSpeed);
