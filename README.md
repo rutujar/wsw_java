@@ -3,4 +3,5 @@
 
  Travis CI   | [![Build Status](https://travis-ci.org/rutujar/wsw_java.svg?branch=master)](https://travis-ci.org/rutujar/wsw_java)
 ------------ | -------------
+Code Coverage| [![Codacy Badge](https://api.codacy.com/project/badge/Grade/787f95bef04843af9d23bf24ebd0f9f3)](https://www.codacy.com/app/rutujar/wsw_java?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=rutujar/wsw_java&amp;utm_campaign=Badge_Grade)
 
